@@ -5,5 +5,5 @@ CONTROLS:
 WASD to move
 Left click to shoot
 
-INSTALLATION INSTRUCTIONS:
+# INSTALLATION INSTRUCTIONS:
 Download both zip files and just make sure to extract them in the same folder so the game has everything it needs. I had to do it in two zips because GitHub doesn't like big files.
